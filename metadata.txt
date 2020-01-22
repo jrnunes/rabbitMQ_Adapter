@@ -1,0 +1,7 @@
+#Properties file
+#Wed Sep 18 09:13:09 PDT 2019
+Adapter-Name=camelRabbitMQ
+Enable-Maven=false
+Adapter-Vendor=numenit.com
+Adapter-ID=camelRabbitMQ
+Adapter-Version=1.0.0

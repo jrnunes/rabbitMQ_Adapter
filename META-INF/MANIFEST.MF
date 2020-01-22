@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Name: camelRabbitMQ
+SAP-AdapterName: camelRabbitMQ
+Bundle-Vendor: numenit.com
+Bundle-SymbolicName: camelRabbitMQ
+Bundle-Version: 1.0.0
+SAP-NodeType: IFLMAP
+SAP-BundleType: IntegrationAdapter
